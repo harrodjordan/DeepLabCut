@@ -9,3 +9,6 @@
 4. Run 'python dlc.py' via the command line 
 
 5. Proceed via the DLC User Guide -> https://www.nature.com/articles/s41596-019-0176-0
+
+
+# Original DLC Repository can be found here: https://github.com/AlexEMG/DeepLabCut
