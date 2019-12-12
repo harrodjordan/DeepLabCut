@@ -4,9 +4,7 @@
 
 2. Move to the DeepLabCut folder ('cd /home/jordanharrod/Desktop/DeepLabCut')
 
-3. Activate DLC environment ('conda activate dlc-windowsGPU')
-
-3a. If another environment is currently running (ex. tensorflow-gpu), deactivate that environment first ('conda deactivate')
+3. Activate DLC environment ('conda activate dlc-windowsGPU'). If another environment is currently running (ex. tensorflow-gpu), deactivate that environment first ('conda deactivate')
 
 4. Run 'python dlc.py' via the command line 
 
